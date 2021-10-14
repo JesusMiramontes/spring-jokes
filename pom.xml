@@ -35,6 +35,12 @@
 			<artifactId>spotless-maven-plugin</artifactId>
 			<version>2.17.0</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/guru.springframework/chuck-norris-for-actuator -->
+		<dependency>
+			<groupId>guru.springframework</groupId>
+			<artifactId>chuck-norris-for-actuator</artifactId>
+			<version>2.4.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>
